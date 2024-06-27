@@ -1,0 +1,14 @@
+{
+  "name": "practice-playwright",
+  "version": "1.0.0",
+  "description": "This project have the purpose to practice the E2E integrations on the Frontend App",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "@types/node": "^20.14.9"
+  }
+}
